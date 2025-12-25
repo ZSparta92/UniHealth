@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "UniHealth",
+    "slug": "mental-health-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#E0CFF7",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mentalhealthapp",
+      "jsEngine": "jsc"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E0CFF7"
+      },
+      "package": "com.mentalhealthapp",
+      "softwareKeyboardLayoutMode": "resize"
+    }
+  }
+}
