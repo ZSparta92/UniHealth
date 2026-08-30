@@ -16,3 +16,9 @@ if(!GUESTS.some(g=>g.sheetNumber===104&&g.name==='Femme Marc')){
 if(!GUESTS.some(g=>g.sheetNumber===105&&g.name==='Melina')){
   GUESTS.push({id:112,sheetNumber:105,name:'Melina',side:'Anis',cat:'Enfant',age:'',parent:'',sheet:''});
 }
+if(!GUESTS.some(g=>g.sheetNumber===106&&g.name==='Isahk')){
+  GUESTS.push({id:113,sheetNumber:106,name:'Isahk',side:'Anis',cat:'Adulte',age:'',parent:'',sheet:''});
+}
+if(!GUESTS.some(g=>g.sheetNumber===107&&g.name==='Luqman')){
+  GUESTS.push({id:114,sheetNumber:107,name:'Luqman',side:'Anis',cat:'Adulte',age:'',parent:'',sheet:''});
+}
